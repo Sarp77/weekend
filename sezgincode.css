@@ -1,0 +1,25 @@
+html {
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+    width: 65%;
+    border: 0.4vw solid blue;
+    padding: 4vw 2vw 3vw;
+    background-color: rgb(196, 241, 235);
+    margin: 100px auto;
+}
+h1 {
+    font-size: 3.5vw;
+    margin-top: 0;
+}
+#description {
+    text-align: justify;
+    font-size: 1.7vw;
+}
+img {
+    width: 23vw;
+    height: 16vw;
+    float: left;
+    margin-right: 2vw;
+}
